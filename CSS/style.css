@@ -1,0 +1,10 @@
+:root {
+    --bg-color: linear-gradient(#3b46ac, #9198e5);
+    --case-color: #4E4B4B;
+    --middleKeys-color: #8F9290;
+    --bottomKeys-color: #000000;
+    --letterKeys-color: #ffffff;
+    --screen-color: #A5FEFC;
+    --topKeys-color: #08A53C;
+    --displayLetter-color: #2D2D2D;
+}
