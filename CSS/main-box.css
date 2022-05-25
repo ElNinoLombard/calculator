@@ -1,0 +1,14 @@
+.main-box {
+    display: flex;
+    width: 25%;
+    height: 95vh;
+    box-shadow: 0 0 5px grey, inset 0 0 10px black;
+}
+
+.main-box > .box-one {
+    width: 95%;
+    margin-left: 2.3%;
+    height: 93vh;
+    border: 1px solid black;
+    margin-top: 7px;
+}
