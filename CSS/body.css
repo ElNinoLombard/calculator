@@ -1,5 +1,6 @@
 @import '/CSS/root.css';
 
 body {
-    background-color: var(--bg-color);
+    background: var(--bg-color);
 }
+
